@@ -1,7 +1,10 @@
 # number-guessing-game
+<img src="https://user-images.githubusercontent.com/112631794/202885764-445e3e4f-b791-4a58-a819-917e87c0e693.png" width="500">
+
+
 
 ## Instruction
-Guess the randomly generated number inside a range (E.g. 1 to 10).
+This script is an interactive guessing game, which will ask the user to guess a randomly generated number inside a range (E.g. 1 to 10).
 
 ## Example
 ```
