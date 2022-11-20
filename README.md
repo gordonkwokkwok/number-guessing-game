@@ -3,7 +3,7 @@
 ## Instruction
 Guess the randomly generated number inside a range (E.g. 1 to 10).
 
-## Example with range from 1 to 10
+## Example
 ```
 >>> guess_range(10)
 >>> 5
